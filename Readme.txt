@@ -48,7 +48,7 @@ For a more detailed list of options and features of the plugin, please look at t
 == Installation ==
 
 1. Install [WordPress](https://wordpress.org/)
-2. Go to your WordPress admin panel, and then to Plugins. Click on "Add New” and then upload the zip file of the plugin using the "Upload Plugin” button you can find on top of the screen.
+2. Go to your WordPress admin panel, and then to Plugins. Click on "Add New" and then upload the zip file of the plugin using the "Upload Plugin" button you can find on top of the screen.
 3. For the plugin to work as it should, WooCommerce plugin has to be installed and enabled.
 
 == Frequently Asked Questions ==
@@ -63,7 +63,7 @@ For a more detailed list of options and features of the plugin, please look at t
 
 * Do I get access to different styling options for the Check Pincode Functionality on the Product Page?
 
-**Ans.** Yes, the premium feature offers a variety of styling options that are available in the “Styling Options” feature that is present under the Settings Tab.
+**Ans.** Yes, the premium feature offers a variety of styling options that are available in the "Styling Options" feature that is present under the Settings Tab.
 
 
 * Is there an option to update Pin codes?
