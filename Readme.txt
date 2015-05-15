@@ -88,8 +88,5 @@ For a more detailed list of options and features of the plugin, please look at t
 
 == Changelog ==
 
-= 1.1 =
-* Fixed warning messages.
-
 = 1.0 =
 * Initial release.
