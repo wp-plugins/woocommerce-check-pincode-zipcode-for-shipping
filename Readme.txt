@@ -3,7 +3,7 @@ Contributors: Phoeniixx Team
 Tags: pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.0.8
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -85,6 +85,11 @@ For a more detailed list of options and features of the plugin, please look at t
 2. This page shows all the settings. If you want to change some settings regarding pincode, it can be done on this page.
 3. This page is used to add Zipcodes and can set the delivery date.  
 
+
 == Changelog ==
-= 0.1 =
+
+= 1.1 =
+* Fixed warning messages.
+
+= 1.0 =
 * Initial release.
