@@ -66,7 +66,7 @@ if( sanitize_text_field( $_POST['submit'] ) == 'Save') {
 
 /* Fetching Data From DB */
 
-$qry22 = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1" ),ARRAY_A );	
+$qry22 = $wpdb->get_results( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1",ARRAY_A );	
 
 foreach($qry22 as $qry) {
 
