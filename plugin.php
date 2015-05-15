@@ -3,7 +3,7 @@
 Plugin Name: Woocommerce check pincode/zipcode for shipping
 Plugin URI: http://www.phoeniixx.com
 Description: Woocommerce Product Pincode Check.
-Version: 1.0
+Version: 1.1
 Author: Phoeniixx Team
 Author URI: http://www.phoeniixx.com
 */
