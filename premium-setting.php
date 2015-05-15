@@ -74,14 +74,7 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
 
 </style>
 
-
-
-
-
-
-
 <div class="premium-box">
-
 
 <div class="upgrade">
 <div class="upgrade-box">
@@ -96,7 +89,6 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
 <li>
 
 <div class="img-box"><span class="pincode-check"></span></div>
-
  <div class="detail">
  <div class="inner-detail">
    <h2>Add to Cart Activation based on Pincodes</h2>
@@ -105,7 +97,6 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
     </p>
   </div> 
 </li>
-
 
 <li>
  <div class="detail">
@@ -119,7 +110,6 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
  <div class="img-box"><span class="sat-sun-off"></span></div>
 </li>
 
-
 <li>
 <div class="img-box"><span class="bulk-upload"></span></div>
 
@@ -131,7 +121,6 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
     </p>
   </div> 
 </li>
-
 
 <li>
  <div class="detail">
@@ -159,7 +148,6 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
   </div>
 </li>
 
-
 <li>
  <div class="detail">
   <div class="inner-detail">
@@ -172,7 +160,6 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
  <div class="img-box"><span class="advance-styling"></span></div>
 </li>
 
-
 <li>
  <div class="detail">
   <div class="inner-detail">
@@ -184,10 +171,6 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
  </div>
  <div class="img-box"><span class="Checkout-Page-Pincode--Check"></span></div>
 </li>
-
-
-
-
 </ul>
 
 <div class="upgrade">
@@ -197,7 +180,4 @@ $plugin_dir_url =  plugin_dir_url( __FILE__ );
 </div>
 
 </div>
-
-
 </div>
-

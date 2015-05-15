@@ -1,5 +1,4 @@
 <?php
-
 global $wpdb,$table_prefix;
 
 wp_enqueue_script('wp-color-picker'); //for color picker scripts
