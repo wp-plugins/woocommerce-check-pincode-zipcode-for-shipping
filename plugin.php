@@ -109,7 +109,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 
 		#Check to see if the table exists already, if not, then create it
 
-		if($wpdb->get_var( $wpdb->prepare( "show tables like '$wp_track_members_table'" ) ) != $wp_track_members_table) 
+		if($wpdb->get_var( "show tables like '$wp_track_members_table'" ) != $wp_track_members_table) 
 		{
 
 			$sql0  = "CREATE TABLE `". $wp_track_members_table . "` ( ";
@@ -143,7 +143,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		
 		#Check to see if the table exists already, if not, then create it
 
-		if($wpdb->get_var( $wpdb->prepare( "show tables like '$table_name'" ) ) != $table_name) 
+		if($wpdb->get_var( "show tables like '$table_name'" ) != $table_name) 
 		{
 			
 			$sql = "CREATE TABLE $table_name (
