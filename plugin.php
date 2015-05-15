@@ -20,7 +20,6 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) 
 {
 
-	
 	function pincodes_settings_link($links) {
 	
 		  $settings_link = '<a href="admin.php?page=pincodes_setting">Settings</a>'; 

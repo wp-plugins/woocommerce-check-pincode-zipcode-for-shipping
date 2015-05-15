@@ -11,7 +11,6 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 
 == Description ==
 
-
 **Advance checking of pin codes** is a great feature. Online shoppers usually like knowing the timeline of their orders before they place an order. With this plugin you can tell them about the delivery dates of your products before they move towards the buying stage. This will reduce your cart abandonment rates and increase your customer satisfaction rates.
 
 **Advance Check Pin Code Features:**
