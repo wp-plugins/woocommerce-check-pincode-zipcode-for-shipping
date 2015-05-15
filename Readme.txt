@@ -3,7 +3,7 @@ Contributors: Phoeniixx Team
 Tags: pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -87,6 +87,9 @@ For a more detailed list of options and features of the plugin, please look at t
 
 
 == Changelog ==
+
+= 1.1 =
+* Fixed warning messages.
 
 = 1.0 =
 * Initial release.
