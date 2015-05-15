@@ -259,7 +259,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 				
 				$query = " SELECT * FROM `".$table_prefix."check_pincode_p` where `pincode` = '$cookie_pin' ";
 
-				$getdata = $wpdb->get_results( $wpdb->prepare( $query ) );
+				$getdata = $wpdb->get_results( $query );
 
 				foreach($getdata as $data){
 
