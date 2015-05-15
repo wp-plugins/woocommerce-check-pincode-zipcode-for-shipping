@@ -567,7 +567,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 	
 	.avlpin{  border: 1px solid #e8e7e7; }
 	
-	.avlpin{ margin:24px 0 12px; padding:20px; text-align:center; min-width:400px; display:inline-block;}
+	.avlpin{ margin:24px 0 12px; padding:20px; text-align:center; min-width:400px; display:inline-block;box-sizing:border-box;}
 	
 	.pin_div{ <?php if($bgcolor == ''){ echo "background:#f4f2f2;"; } else { echo "background:$bgcolor".';'; }  ?> }
 	
@@ -636,6 +636,5 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
     </style>
     <?php
     }
-
 }
 ?>
