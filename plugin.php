@@ -511,39 +511,34 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 
     ?>
     <style>
-	#shade {
-    background: none repeat scroll 0 0 #000000;
-    opacity: 0.5;
-	}
+	#shade{background: none repeat scroll 0 0 #000000;opacity: 0.5;}
 	
-	#shade {
-		height: 100%;
-		left: 0;
-		position: fixed;
-		top: 0;
-		width: 100%;
-		z-index: 100;
-	}
-    form.cart #my_custom_checkout_field #pincode_field_id{width:180px;border: 1px solid #d3d3d3;margin-right: 5px;font-size: 13px;font-family: "Source Sans Pro",Helvetica,sans-serif;}
-    form.cart #my_custom_checkout_field #pincode_field_idp label{display: inline-block;margin-right: 5px;font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;
-    color:<?php echo $textcolor; ?>;}
+	#shade {height: 100%;left: 0;position: fixed;top: 0;width: 100%;z-index: 100;}
+    
+	form.cart #my_custom_checkout_field #pincode_field_id{width:180px;border: 1px solid #d3d3d3;margin-right: 5px;font-size: 13px;font-family: "Source Sans Pro",Helvetica,sans-serif;}
+    
+	form.cart #my_custom_checkout_field #pincode_field_idp label{display: inline-block;margin-right: 5px;font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:<?php echo $textcolor; ?>;}
     
     form.cart .wc-delivery-time-response .delivery-info-wrap {margin: 15px 0;}
-    form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info {display: inline-block;width: 100%; position: relative;}
-    form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .header {float: left;width: 50%;}
-    form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap {float: right;width: 50%;position:relative;}
-    form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .delivery-help-icon{margin-left:5px;cursor:pointer;}
+    
+	form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info {display: inline-block;width: 100%; position: relative;}
+    
+	form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .header {float: left;width: 50%;}
+    
+	form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap {float: right;width: 50%;position:relative;}
+    
+	form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .delivery-help-icon{margin-left:5px;cursor:pointer;}
     
     form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .header .delivery .ul-disc{margin:0;padding:0;list-style:none;}
-    
+   
     form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap .cash-on-delivery-info .header{float:none;width:100%;}
-    form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap .cash-on-delivery-info .header .cash-on-delivery-help-icon{margin-left: 5px;cursor:pointer;}
+    
+	form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap .cash-on-delivery-info .header .cash-on-delivery-help-icon{margin-left: 5px;cursor:pointer;}
     
     
     /*-------------------product1-----------------*/
  
-    #my_custom_checkout_field2 #pincode_field_idp #pincode_field_id.input-text{width:180px;border: 1px solid #666666;margin-right: 5px;font-size: 13px;font-family: "Source Sans Pro",Helvetica,sans-serif;
-    color:#999;}
+    #my_custom_checkout_field2 #pincode_field_idp #pincode_field_id.input-text{width:180px;border: 1px solid #666666;margin-right: 5px;font-size: 13px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#999;}
     
     #my_custom_checkout_field2 #pincode_field_idp .button{ margin-top:-3px;padding:5px 10px;float: none;font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;text-transform: uppercase;  font-weight: normal;}
     
@@ -553,11 +548,14 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
     
     
     .delivery_help_text p{font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:<?php echo $textcolor; ?>;}
-    .delivery_help_text h3{font-size: 16px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#7d7b6d;}
+    
+	.delivery_help_text h3{font-size: 16px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#7d7b6d;}
     
     .header .cash_on_delivery_help_text p{font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:<?php echo $textcolor; ?>;}
-    .header .cash_on_delivery_help_text h3{font-size: 16px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#7d7b6d;}
-    .delivery-help-cross {color: #000 !important;font-size: 17px;font-weight: bold;position: absolute;right: 0px;top: -2px;cursor: pointer;}
+    
+	.header .cash_on_delivery_help_text h3{font-size: 16px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#7d7b6d;}
+    
+	.delivery-help-cross {color: #000 !important;font-size: 17px;font-weight: bold;position: absolute;right: 0px;top: -2px;cursor: pointer;}
     /*-------------------product1-----------------*/
     
     
@@ -634,6 +632,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 	.delivery-info span h6{ color:#484747; }
 	
 	.width_class {  }
+	
     </style>
     <?php
     }
