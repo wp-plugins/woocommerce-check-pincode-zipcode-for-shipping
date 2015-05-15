@@ -582,31 +582,57 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 	/*------------Text color------------*/
 	
 	.avlpin p{ color:<?php echo $textcolor; ?>; }
+	
 	.avlpin p{ display:inline-block; margin-right: 5px; font-size: 14px; font-family: "Source Sans Pro",Helvetica,sans-serif; margin-bottom:0;}
+	
 	#pincode_field_idp label{color:<?php echo $textcolor; ?>; display: inline-block; margin-right: 5px; font-size:14px; font-family: "Source Sans Pro",Helvetica,sans-serif;}
+	
 	/*------------Text color------------*/
+	
 	/*------------Button & Button Text color------------*/
+	
 	#change_pin.button{ background:<?php echo $buttoncolor; ?>; }
+	
 	#change_pin.button{ color:<?php echo $buttontcolor; ?>; }
+	
 	#my_custom_checkout_field2 #pincode_field_idp .button{ color:<?php echo $buttontcolor; ?>; }
+	
 	#my_custom_checkout_field2 #pincode_field_idp .button{ background:none repeat scroll 0 0 <?php echo $buttoncolor; ?>; }
+	
 	#my_custom_checkout_field #pincode_field_idp .button{ color:<?php echo $buttontcolor; ?>; }
+	
 	#my_custom_checkout_field #pincode_field_idp .button{ background:none repeat scroll 0 0 <?php echo $buttoncolor; ?>; }
+		
 	#change_pin.button{ float:none; font-size: 14px; font-family: "Source Sans Pro",Helvetica,sans-serif; padding:7px 12px; text-transform: uppercase; font-weight:normal;}
+	
 	/*------------Button & Button Text color------------*/
+	
 	/*-----Tooltip Border, Tooltip Background & Tooltip Text color-----*/
+
 	.header .delivery_help_text{ background:#EDEDED; }
+	
 	.header .delivery_help_text{ border:1px solid #e8e7e7; }
-	.header .delivery_help_text{ width:100%; box-sizing: border-box; overflow:auto; height:200px; position: absolute; z-index:9999; top:25px; left:0; padding:15px; font-size:14px; font-family: "Source Sans Pro",Helvetica,sans-serif;}
+	
+	.header .delivery_help_text{ width:100%; box-sizing: border-box; overflow:auto; height:200px; position: absolute; z-index:9999; top:25px; left:0; padding:15px; font-size:14px; font-family: "Source Sans Pro",Helvetica,sans-serif;}	
+	
 	/*-----Tooltip Border, Tooltip Background & Tooltip Text color-----*/
+    
 	/*------------Delivered by Text color------------*/
+	
 	.delivery-info h6{ margin:0; display:inline-block; font-size: 16px; font-family: "Source Sans Pro",Helvetica,sans-serif;}
+	
 	/*------------Delivered by Text color------------*/
+
 	/*------------Date color------------*/
+	
 	.delivery .ul-disc li{ font-size:14px;font-family: "Source Sans Pro",Helvetica,sans-serif;}
+	
 	/*------------Date color------------*/
+	
 	.delivery_help_text_main{ position: relative;width:100%; }
+	
 	.delivery-info span h6{ color:#484747; }
+	
 	.width_class {  }
     </style>
     <?php
