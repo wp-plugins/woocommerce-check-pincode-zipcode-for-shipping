@@ -243,7 +243,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 
 			$cookie_pin = $_COOKIE['valid_pincode'];
 			
-			$num_rows = $wpdb->get_var( $wpdb->prepare( "SELECT COUNT(*) FROM `".$table_prefix."check_pincode_p` where `pincode` = '$cookie_pin' " ) );
+			$num_rows = $wpdb->get_var( $wpdb->prepare( "SELECT COUNT(*) FROM `".$table_prefix."check_pincode_p` where `pincode` = %d" , $cookie_pin ) );
 	
 			if($num_rows == 0)
 			{
@@ -255,7 +255,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 
 			if(isset($cookie_pin) && $cookie_pin != '') {
 
-				$qry22 = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1" ) ,ARRAY_A);
+				$qry22 = $wpdb->get_results( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1" ,ARRAY_A);
 				
 				$query = " SELECT * FROM `".$table_prefix."check_pincode_p` where `pincode` = '$cookie_pin' ";
 
@@ -372,7 +372,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 			else
 			{
 
-				$qry22 = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1" ) ,ARRAY_A);	
+				$qry22 = $wpdb->get_results( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1" ,ARRAY_A);	
 				
 				?>
 
@@ -469,7 +469,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		{
 			$table_pin_codes = $table_prefix."check_pincode_p";
 			//echo "select COUNT(*) from $table_pin_codes where pincode='$pincode'";
-			$count = $wpdb->get_var( $wpdb->prepare( "select COUNT(*) from $table_pin_codes where pincode='$pincode'" ) );
+			$count = $wpdb->get_var( $wpdb->prepare( "select COUNT(*) from $table_pin_codes where `pincode` = %d" , $pincode ) );
 			if($count==0)
 			{
 
@@ -499,7 +499,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		
 		$blog_title = site_url();
 		
-		$qry22 = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1" ) ,ARRAY_A);	
+		$qry22 = $wpdb->get_results( "SELECT * FROM `".$table_prefix."pincode_setting_p` ORDER BY `id` ASC  limit 1" ,ARRAY_A);	
 		
 		$bgcolor =  $qry22[0]['bgcolor'];
 		
