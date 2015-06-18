@@ -36,7 +36,15 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 10. Advance Styling options
 11. Uploading Image options.
 
-**Support link** - [Support](http://www.phoeniixx.com/support)
+**Support**
+
+**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+
+**Skype** - phoeniixx.tarun
+
+**Ticket system** - [Click here](http://www.phoeniixx.com/support)
+
+**Website** - [phoeniixx.com](http://www.phoeniixx.com)
 
 
 **Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/) 
