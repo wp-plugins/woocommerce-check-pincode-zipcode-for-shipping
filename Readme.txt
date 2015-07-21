@@ -1,16 +1,15 @@
 === Woocommerce check pincode/zipcode for shipping ===
 Contributors: Phoeniixx Team
-Tags: pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery
+Tags: phoeniixx,pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery ,Woocommerce check pincode,Woocommerce check pincode/zipcode for shipping 
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Advance Check Pin Code is a solution that allows users to set delivery dates based on the pin codes.
 
 == Description ==
-
 
 **Advance checking of pin codes** is a great feature. Online shoppers usually like knowing the timeline of their orders before they place an order. With this plugin you can tell them about the delivery dates of your products before they move towards the buying stage. This will reduce your cart abandonment rates and increase your customer satisfaction rates.
 
@@ -37,7 +36,15 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 10. Advance Styling options
 11. Uploading Image options.
 
-**Support link** - [Support](http://www.phoeniixx.com/support)
+**Support**
+
+**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+
+**Skype** - phoeniixx.tarun
+
+**Ticket system** - [Click here](http://www.phoeniixx.com/support)
+
+**Website** - [phoeniixx.com](http://www.phoeniixx.com)
 
 
 **Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/) 
@@ -87,6 +94,9 @@ For a more detailed list of options and features of the plugin, please look at t
 
 
 == Changelog ==
+
+= 1.1 - 21/07/2015 =
+* Fixed warning messages.
 
 = 1.0 =
 * Initial release.
