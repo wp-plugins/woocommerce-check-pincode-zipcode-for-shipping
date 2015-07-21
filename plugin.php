@@ -3,7 +3,7 @@
 Plugin Name: Woocommerce check pincode/zipcode for shipping
 Plugin URI: http://www.phoeniixx.com
 Description: Advance Check Pin Code is a solution that allows users to set delivery dates based on the pin codes.
-Version: 1.0
+Version: 1.1
 Author: Phoeniixx Team
 Author URI: http://www.phoeniixx.com
 */
