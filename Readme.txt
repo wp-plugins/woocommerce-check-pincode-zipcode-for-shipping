@@ -1,5 +1,5 @@
 === Woocommerce check pincode/zipcode for shipping ===
-Contributors: Phoeniixx Team
+Contributors: Phoeniixx
 Tags: phoeniixx,pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery ,Woocommerce check pincode,Woocommerce check pincode/zipcode for shipping 
 Requires at least: 4.0
 Tested up to: 4.2.2
