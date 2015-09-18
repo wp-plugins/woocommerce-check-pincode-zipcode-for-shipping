@@ -35,6 +35,10 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 9. Delivery dates are shown based on the pin codes
 10. Advance Styling options
 11. Uploading Image options.
+12. Option to hide or show Pincode Area on Product Page
+13. Choice to validate or not validate Pincode, on Product Page
+14. Option to pick Pincode from default billing/shipping address of customer
+15. Option to hide or show “Cash on Delivery ”  and/or “Delivery Days/Date” on Product Page 
 
 **Support**
 
