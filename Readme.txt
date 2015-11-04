@@ -45,13 +45,13 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 
 **Support**
 
-**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)</br>
 
-**Skype** - phoeniixx.tarun
+**Skype** - phoeniixx.tarun</br>
 
-**Ticket system** - [Click here](http://www.phoeniixx.com/support)
+**Ticket system** - [Click here](http://www.phoeniixx.com/support)</br>
 
-**Website** - [phoeniixx.com](http://www.phoeniixx.com)
+**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)</br>
 
 
 
