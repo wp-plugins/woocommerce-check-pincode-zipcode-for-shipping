@@ -46,13 +46,13 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 
 **Support**
 
-**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)</br>
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
 
-**Skype** - phoeniixx.tarun</br>
+**Skype** - phoeniixx.tarun
 
-**Ticket system** - [Click here](http://www.phoeniixx.com/support)</br>
+**Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
-**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)</br>
+**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
 
 For a more detailed list of options and features of the plugin, please look at the [Official Documentation](http://www.phoeniixx.com/docs/woocommerce/woocommerce-check-pincode/index.html)
 
