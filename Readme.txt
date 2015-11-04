@@ -42,23 +42,15 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 16. You can also use this shortcode "[phoeniixx-pincode-check]" to add pincode area on any page.
 
 <blockquote> 
-
-<b>Premium Version link</b> - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/) <br>
-
+<b>Premium Version link</b> - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org) <br>
 </blockquote>
 
 <blockquote> 
-
 <b>Support</b><br>
-
 <b>Email :</b> - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)<br>
-
 <b>Skype</b> - phoeniixx.tarun<br>
-
 <b>Ticket system</b> - [Click here](http://www.phoeniixx.com/support)<br>
-
 <b>Website</b> - [phoeniixx.com](http://www.phoeniixx.com)
-
 </blockquote> 
 
 
