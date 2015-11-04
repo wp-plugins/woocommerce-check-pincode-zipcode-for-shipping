@@ -41,17 +41,14 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 15. Option to hide or show "Cash on Delivery"  and/or "Delivery Days/Date" on Product Page
 16. You can also use this shortcode "[phoeniixx-pincode-check]" to add pincode area on any page.
 
-<blockquote> 
-<b>Premium Version link</b> - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org) <br>
-</blockquote>
 
-<blockquote> 
-<b>Support</b><br>
-<b>Email :</b> - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)<br>
-<b>Skype</b> - phoeniixx.tarun<br>
-<b>Ticket system</b> - [Click here](http://www.phoeniixx.com/support)<br>
-<b>Website</b> - [phoeniixx.com](http://www.phoeniixx.com)
-</blockquote> 
+**Premium Version link** - [Click Here](http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org)
+
+**Support**
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+**Skype** - phoeniixx.tarun
+**Ticket system** - [Click here](http://www.phoeniixx.com/support)
+**Website** - [phoeniixx.com](http://www.phoeniixx.com)
 
 For a more detailed list of options and features of the plugin, please look at the [Official Documentation](http://www.phoeniixx.com/docs/woocommerce/woocommerce-check-pincode/index.html)
 
