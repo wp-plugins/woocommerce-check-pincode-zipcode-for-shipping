@@ -43,20 +43,21 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 
 <blockquote> 
 
-**Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/) 
+<b>Premium Version link</b> - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/) <br>
+
 </blockquote>
 
 <blockquote> 
 
-**Support**
+<b>Support</b><br>
 
-**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+<b>Email :</b> - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)<br>
 
-**Skype** - phoeniixx.tarun
+<b>Skype</b> - phoeniixx.tarun<br>
 
-**Ticket system** - [Click here](http://www.phoeniixx.com/support)
+<b>Ticket system</b> - [Click here](http://www.phoeniixx.com/support)<br>
 
-**Website** - [phoeniixx.com](http://www.phoeniixx.com)
+<b>Website</b> - [phoeniixx.com](http://www.phoeniixx.com)
 
 </blockquote> 
 
