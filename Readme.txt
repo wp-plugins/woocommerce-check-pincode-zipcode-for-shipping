@@ -3,7 +3,7 @@ Contributors: phoeniixx
 Tags: phoeniixx,pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery ,Woocommerce check pincode,Woocommerce check pincode/zipcode for shipping 
 Requires at least: 4.0
 Tested up to: 4.3.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -100,6 +100,9 @@ For a more detailed list of options and features of the plugin, please look at t
 
 
 == Changelog ==
+
+= 1.3 - 05/11/2015 =
+* Bug Fixes.
 
 = 1.2 - 14/10/2015 =
 * Removed the limit of pincode length.
