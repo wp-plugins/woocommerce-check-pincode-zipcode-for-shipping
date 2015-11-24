@@ -3,7 +3,7 @@ Contributors: phoeniixx
 Tags: phoeniixx,pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery ,Woocommerce check pincode,Woocommerce check pincode/zipcode for shipping 
 Requires at least: 4.0
 Tested up to: 4.3.1
-Stable tag: 1.3
+Stable tag: 1.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,7 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 15. Option to hide or show "Cash on Delivery"  and/or "Delivery Days/Date" on Product Page
 16. You can also use this shortcode "[phoeniixx-pincode-check]" to add pincode area on any page.
 
+
 **Premium Version link** - [Click Here](http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org)
 
 **Support**
@@ -52,9 +53,6 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
 **Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
-
-
-
 
 For a more detailed list of options and features of the plugin, please look at the [Official Documentation](http://www.phoeniixx.com/docs/woocommerce/woocommerce-check-pincode/index.html)
 
@@ -101,11 +99,17 @@ For a more detailed list of options and features of the plugin, please look at t
 
 == Changelog ==
 
+= 1.3.2 - 19/11/2015 =
+* Fix - Compatibility issues.
+
+= 1.3.1 - 16/11/2015 =
+* Bug Fixes.
+
 = 1.3 - 05/11/2015 =
 * Bug Fixes.
 
 = 1.2 - 14/10/2015 =
-* Removed the limit of pincode length.
+* Removed the limit of pincode length .
 
 = 1.1 - 21/07/2015 =
 * Fixed warning messages.
